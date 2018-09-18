@@ -1,0 +1,25 @@
+PODS:
+  - Cache (4.2.1)
+  - Hue (3.0.1)
+  - Imaginary (3.0.4):
+    - Cache (= 4.2.1)
+
+DEPENDENCIES:
+  - Hue (~> 3.0)
+  - Imaginary (= 3.0.4)
+
+SPEC REPOS:
+  https://bitbucket.org/digitalanimalca/ios-pods.git:
+    - Cache
+    - Imaginary
+  https://github.com/cocoapods/specs.git:
+    - Hue
+
+SPEC CHECKSUMS:
+  Cache: c3307248aaccf525ad5cc3a8f9f507f0dd4d8e78
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  Imaginary: 2a0d13ebf1ef5823ce5432988e82446fa6b0e88e
+
+PODFILE CHECKSUM: 5d24fb5489c816d31dccd097f45df426fa667e2b
+
+COCOAPODS: 1.5.3
